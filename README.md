@@ -8,4 +8,4 @@ Economics student, at PUC-RJ (Pontificia Universidade Catolica do Rio de Janeiro
 <div display="flex"> <img src="https://img.shields.io/badge/intel-core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /> 
 </div> <br>
 
-![Peagaeco's github stats](https://github-readme-stats.vercel.app/api?username=Peagaeco&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Peagaeco's github stats](https://github-readme-stats.vercel.app/api?username=Ferreydrope&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
