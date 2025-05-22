@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏠 Living at Rio de Janeiro City, Brazil.<br>📚  Learning to become a Full-stack Developer.<br>🔭 Looking for a first job as Front-end developer.<br>👨🏾‍🎓  A student of Software Engineer in Centro Universitário Internacional UNINTER.<br>🌐  Advanced in English and fluent Portuguese.<br> 👨🏾‍💻  Code from Favela!
+🏠 Living at Rio de Janeiro City, Brazil.<br>📚  Learning to become a Full-stack Developer.<br>🔭 Looking for a first job as Front-end developer.<br>👨🏾‍🎓  A student of Science Compututer in IBMR.<br>🌐  Advanced in English and fluent Portuguese.<br> 👨🏾‍💻  Code from Favela!
 
 
 ## 🌐 Socials:
