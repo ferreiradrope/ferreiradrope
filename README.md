@@ -1,15 +1,49 @@
-# 💫 About Me:
-🏠 Living at Rio de Janeiro City, Brazil.<br>📚  Learning to become a Full-stack Developer.<br>🔭 Looking for a first job as Front-end developer.<br>👨🏾‍🎓  A student of Science Computer in IBMR.<br>🌐  Advanced in English and fluent Portuguese.<br> 👨🏾‍💻  Code from Favela!
+# Pedro Henrique Ferreira
 
+Desenvolvedor full stack e mobile no Rio de Janeiro, trabalhando com produtos em produção desde 2025.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohferreirarj) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/akapeaga) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ferreyradrope) 
+Atuo principalmente com **React, React Native, TypeScript, Python e PostgreSQL**, desenvolvendo e mantendo aplicações web e mobile, APIs, pagamentos, autenticação e integrações com serviços externos. Atualmente curso Ciência da Computação no IBMR.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ferreiradrope&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ferreiradrope&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiradrope&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/pedrohferreirarj/) · [E-mail](mailto:pedrohferreira98@hotmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## O que venho construindo
+
+- Mantenho aplicações React Native publicadas para Android e iOS, incluindo o [ScaleClock](https://play.google.com/store/apps/details?id=com.scaleclock), com mais de 100 mil downloads na Google Play.
+- Desenvolvo plataformas de matrícula e cobrança que administram cerca de 300 matrículas ativas, com PIX, boleto, cartão, split de recebíveis, conciliação por webhooks e emissão de NFS-e.
+- Trabalho com APIs e back-ends em Python/Django/Flask e Node.js, usando PostgreSQL, Supabase, Firebase e Firestore.
+- Integro pagamentos e assinaturas com Pagar.me, Asaas, Stripe, Google Play e Apple.
+- Crio automações e chatbots com n8n, API da OpenAI, WhatsApp e bases de conteúdo.
+
+> Os repositórios dos produtos comerciais são privados. Aqui mantenho projetos públicos e estudos que demonstram as tecnologias e práticas que utilizo.
+
+## Projetos públicos
+
+### [MantovaniHub](https://github.com/ferreiradrope/MantovaniHub)
+
+Plataforma de gestão de produção, estoque e vendas desenvolvida em equipe, do levantamento de requisitos ao deploy. Construída com Next.js, React, TypeScript, Tailwind e Supabase, incluindo PostgreSQL, autenticação e Row Level Security.
+
+### [PratoFácil](https://github.com/marciodosanjos/pratoFacil)
+
+Aplicação para gestão de pedidos desenvolvida em Java 21 e Spring Boot, com JPA, Spring Security, PostgreSQL, pagamentos via Asaas, testes com JUnit 5 e MockMvc, documentação OpenAPI e deploy com Docker. Fui o principal contribuidor do projeto, com 40 dos 44 commits.
+
+### [kanban.app](https://github.com/ferreiradrope/kanban.app)
+
+Aplicação de organização de tarefas desenvolvida em TypeScript.
+
+## Tecnologias
+
+**Front-end e mobile:** React, Next.js, React Native, TypeScript, JavaScript, Tailwind CSS  
+**Back-end:** Python, Django, Flask, Node.js, APIs REST, webhooks  
+**Dados e infraestrutura:** PostgreSQL, Supabase, Firebase, Firestore, Vercel, Render  
+**Integrações:** Pagar.me, Asaas, Stripe, Google Play, Apple, OpenAI, n8n  
+**Qualidade e colaboração:** Git, GitHub, Vitest, JUnit, Scrum
+
+## Em números
+
+- **100 mil+** downloads no maior aplicativo que mantenho
+- **110 mil** contas cadastradas nesse produto
+- **~300** matrículas ativas nas plataformas de cobrança
+- **84** testes automatizados em uma plataforma entregue em produção
+
+Estou aberto a oportunidades em desenvolvimento **full stack, front-end, back-end e mobile**.
+
