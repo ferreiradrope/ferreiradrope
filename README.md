@@ -15,81 +15,23 @@
 
 ## Em produção
 
-<table>
-  <tr>
-    <td colspan="2">
-      <b>Plataformas de matrícula e cobrança</b> para cinco escolas e oficinas de música<br>
-      <sub>Matrícula on-line, cobrança recorrente por PIX, boleto e cartão, split de recebíveis, conciliação por webhooks e NFS-e.</sub><br>
-      <sub><code>Python</code> <code>Flask</code> <code>Next.js</code> <code>TypeScript</code> <code>Firestore</code> <code>Pagar.me</code></sub>
-      <p align="center">
-        <a href="https://oficinaorquestravoadora2026.55jam.com.br"><img src="assets/escola-orquestra.png" width="150" alt="Orquestra Voadora"></a>
-        <a href="https://academiacrista.55jam.com.br"><img src="assets/escola-academia.png" width="150" alt="Academia Cristã de Música"></a>
-        <a href="https://percusamba.55jam.com.br"><img src="assets/escola-percusamba.png" width="150" alt="PercuSamba"></a>
-        <a href="https://percussaca.55jam.com.br"><img src="assets/escola-percussaca.png" width="150" alt="Percussaça"></a>
-        <a href="https://chorobatucada.55jam.com.br"><img src="assets/escola-choro.png" width="150" alt="Choro Batucada"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/icones/scaleclock.png" width="56" align="left" alt="">
-      <b>ScaleClock</b><br>
-      <sub>Aplicativo de música com 100 mil+ downloads. Recuperei e mantenho o app e a API.</sub><br>
-      <sub><code>React Native</code> <code>Django</code> <code>PostgreSQL</code></sub><br>
-      <a href="https://play.google.com/store/apps/details?id=com.scaleclock">Google Play</a> · <a href="https://apps.apple.com/br/app/scaleclock/id1464221197">App Store</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/icones/kids2gether.png" width="56" align="left" alt="">
-      <b>Kids2gether</b><br>
-      <sub>Aplicativo que voltou a funcionar para os assinantes, com versões novas nas duas lojas.</sub><br>
-      <sub><code>React Native</code> <code>Node.js</code> <code>Firebase</code></sub><br>
-      <a href="https://play.google.com/store/apps/details?id=com.kids2gether">Google Play</a> · <a href="https://apps.apple.com/br/app/kids2gether/id1554942484">App Store</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="assets/icones/praiativa.svg" width="56" align="left" alt="">
-      <b>PraiAtiva</b><br>
-      <sub>Atividades físicas na praia, selecionada pelo Acelera Niterói. Um dos dois devs da primeira versão.</sub><br>
-      <sub><code>React</code> <code>TypeScript</code> <code>Supabase</code></sub><br>
-      <a href="https://www.praiativa.com/">praiativa.com</a>
-    </td>
-    <td valign="top">
-      <img src="assets/icones/ticketbaile.svg" width="56" align="left" alt="">
-      <b>Ticket Baile</b> · em desenvolvimento<br>
-      <sub>Ticketaria para bailes, com ingresso em QR Code e painel de eventos e financeiro.</sub><br>
-      <sub><code>Next.js</code> <code>TypeScript</code> <code>Firestore</code></sub><br>
-      <a href="https://dev.ticketbaile.55jam.com.br/">ambiente de desenvolvimento</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="assets/icones/chatbots.svg" width="56" align="left" alt="">
-      <b>Chatbots de WhatsApp com IA</b><br>
-      <sub>Dois chatbots que consultam o conteúdo do site do cliente antes de responder (RAG).</sub><br>
-      <sub><code>API da OpenAI</code> <code>n8n</code> <code>Supabase</code></sub>
-    </td>
-    <td valign="top">
-      <img src="assets/icones/ci.svg" width="56" align="left" alt="">
-      <b>Integração contínua e testes</b><br>
-      <sub>Lint, testes, build e auditoria de dependências a cada push nos repositórios das plataformas.</sub><br>
-      <sub><code>GitHub Actions</code> <code>Vitest</code> <code>Python</code></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://ferreiradrope.github.io/#experiencia"><img src="assets/card-plataformas.png" width="100%" alt="Plataformas de matrícula e cobrança para cinco escolas e oficinas de música: Orquestra Voadora, Academia Cristã, PercuSamba, Percussaça e Choro Batucada. Matrícula on-line, cobrança recorrente por PIX, boleto e cartão, split de recebíveis, conciliação por webhooks e NFS-e. Python, Flask, Next.js, TypeScript, Firestore e Pagar.me."></a>
+</p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.scaleclock"><img src="assets/card-scaleclock.png" width="49%" alt="ScaleClock: aplicativo de música com 100 mil+ downloads. Recuperei e mantenho o app e a API. React Native e Django. Abrir na Google Play."></a>
+  <a href="https://play.google.com/store/apps/details?id=com.kids2gether"><img src="assets/card-kids2gether.png" width="49%" alt="Kids2gether: voltou a funcionar para os assinantes, com versões novas nas duas lojas. React Native e Node.js. Abrir na Google Play."></a>
+</p>
+<p align="center">
+  <a href="https://www.praiativa.com/"><img src="assets/card-praiativa.png" width="49%" alt="PraiAtiva: atividades físicas na praia. Fui um dos dois devs da primeira versão. React e Supabase. Abrir praiativa.com."></a>
+  <a href="https://dev.ticketbaile.55jam.com.br/"><img src="assets/card-ticketbaile.png" width="49%" alt="Ticket Baile, em desenvolvimento: ticketaria com ingresso em QR Code e painel de eventos e financeiro. Next.js e Firestore. Abrir o ambiente de desenvolvimento."></a>
+</p>
+<p align="center">
+  <a href="https://ferreiradrope.github.io/#experiencia"><img src="assets/card-chatbots.png" width="49%" alt="Chatbots de WhatsApp: dois chatbots com IA que consultam o site do cliente antes de responder. API da OpenAI, n8n e RAG. Ver no portfólio."></a>
+  <a href="https://ferreiradrope.github.io/#experiencia"><img src="assets/card-ci.png" width="49%" alt="Integração contínua: lint, testes, build e auditoria de dependências a cada push. GitHub Actions e Vitest. Ver no portfólio."></a>
+</p>
 
 > Os repositórios dos produtos são privados. No [portfólio](https://ferreiradrope.github.io/), cada item traz o passo a passo para conferir.
-
-## Código aberto
-
-<p align="center">
-  <a href="https://github.com/marciodosanjos/pratoFacil"><img src="assets/repo-pratofacil.svg" width="49%" alt="PratoFácil: sistema de pedidos para pequenos empreendedores. Projeto de faculdade em equipe de 13: 40 dos 44 commits são meus. Java, Spring Boot, PostgreSQL, JUnit 5, Docker."></a>
-  <a href="https://github.com/ferreiradrope/MantovaniHub"><img src="assets/repo-mantovanihub.svg" width="49%" alt="MantovaniHub: produção, estoque e vendas de uma charcutaria, publicado na Vercel. Projeto de faculdade em equipe de 14. TypeScript, Next.js, React, Supabase."></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ferreiradrope/kanban.app"><img src="assets/repo-kanban.svg" width="49%" alt="Kanban: um dos meus primeiros projetos, quadro kanban com a base gerada na Lovable, que eu empacotei com Docker e publiquei. TypeScript, React, Docker."></a>
-  <a href="https://github.com/ferreiradrope/ferreiradrope.github.io"><img src="assets/repo-portfolio.svg" width="49%" alt="Portfólio: o código do meu portfólio, página única, sem framework, com temas claro e escuro. HTML, CSS, JavaScript."></a>
-</p>
 
 ## Stack
 
