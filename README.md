@@ -16,19 +16,15 @@
 ## Em produção
 
 <p align="center">
-  <a href="https://ferreiradrope.github.io/#experiencia"><img src="assets/card-plataformas.png" width="100%" alt="Plataformas de matrícula e cobrança para cinco escolas e oficinas de música: Orquestra Voadora, Academia Cristã, PercuSamba, Percussaça e Choro Batucada. Matrícula on-line, cobrança recorrente por PIX, boleto e cartão, split de recebíveis, conciliação por webhooks e NFS-e. Python, Flask, Next.js, TypeScript, Firestore e Pagar.me."></a>
-</p>
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.scaleclock"><img src="assets/card-scaleclock.png" width="49%" alt="ScaleClock: aplicativo de música com 100 mil+ downloads. Recuperei e mantenho o app e a API. React Native e Django. Abrir na Google Play."></a>
-  <a href="https://play.google.com/store/apps/details?id=com.kids2gether"><img src="assets/card-kids2gether.png" width="49%" alt="Kids2gether: voltou a funcionar para os assinantes, com versões novas nas duas lojas. React Native e Node.js. Abrir na Google Play."></a>
-</p>
-<p align="center">
-  <a href="https://www.praiativa.com/"><img src="assets/card-praiativa.png" width="49%" alt="PraiAtiva: atividades físicas na praia. Fui um dos dois devs da primeira versão. React e Supabase. Abrir praiativa.com."></a>
-  <a href="https://dev.ticketbaile.55jam.com.br/"><img src="assets/card-ticketbaile.png" width="49%" alt="Ticket Baile, em desenvolvimento: ticketaria com ingresso em QR Code e painel de eventos e financeiro. Next.js e Firestore. Abrir o ambiente de desenvolvimento."></a>
-</p>
-<p align="center">
-  <a href="https://ferreiradrope.github.io/#experiencia"><img src="assets/card-chatbots.png" width="49%" alt="Chatbots de WhatsApp: dois chatbots com IA que consultam o site do cliente antes de responder. API da OpenAI, n8n e RAG. Ver no portfólio."></a>
-  <a href="https://ferreiradrope.github.io/#experiencia"><img src="assets/card-ci.png" width="49%" alt="Integração contínua: lint, testes, build e auditoria de dependências a cada push. GitHub Actions e Vitest. Ver no portfólio."></a>
+  <a href="https://play.google.com/store/apps/details?id=com.scaleclock"><img src="assets/p-scaleclock.png" width="32.5%" alt="ScaleClock, aplicativo de música: mais de 100 mil downloads. Recuperei e mantenho o app e a API. React Native e Django."></a>
+  <a href="https://play.google.com/store/apps/details?id=com.kids2gether"><img src="assets/p-kids2gether.png" width="32.5%" alt="Kids2gether, aplicativo: voltou a funcionar para os assinantes, com versões novas nas lojas. React Native e Node.js."></a>
+  <a href="https://www.praiativa.com/"><img src="assets/p-praiativa.png" width="32.5%" alt="PraiAtiva, plataforma web: atividades físicas na praia. Um dos dois devs da primeira versão. React e Supabase."></a>
+  <a href="https://oficinaorquestravoadora2026.55jam.com.br"><img src="assets/p-orquestra.png" width="32.5%" alt="Orquestra Voadora, matrícula e cobrança: a maior das plataformas, com cerca de 1.800 parcelas administradas. Python e Flask."></a>
+  <a href="https://academiacrista.55jam.com.br"><img src="assets/p-academia.png" width="32.5%" alt="Academia Cristã, matrícula e cobrança: turmas, financeiro e carteirinha do aluno. Python e Flask."></a>
+  <a href="https://percusamba.55jam.com.br"><img src="assets/p-percusamba.png" width="32.5%" alt="PercuSamba, matrícula e cobrança: split de recebíveis e cobrança automática por WhatsApp. Python e Flask."></a>
+  <a href="https://percussaca.55jam.com.br"><img src="assets/p-percussaca.png" width="32.5%" alt="Percussaça, matrícula e cobrança: no ar em 10 dias, com 84 testes automatizados. Next.js e TypeScript."></a>
+  <a href="https://chorobatucada.55jam.com.br"><img src="assets/p-choro.png" width="32.5%" alt="Choro Batucada, matrícula e cobrança: matrícula, mensalidades e área de aulas em vídeo. Next.js e Firestore."></a>
+  <a href="https://dev.ticketbaile.55jam.com.br/"><img src="assets/p-ticketbaile.png" width="32.5%" alt="Ticket Baile, ticketaria em desenvolvimento: ingresso em QR Code e painel de eventos e financeiro. Next.js e Firestore."></a>
 </p>
 
 > Os repositórios dos produtos são privados. No [portfólio](https://ferreiradrope.github.io/), cada item traz o passo a passo para conferir.
@@ -40,5 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/mais-stack.svg" width="100%" alt="Pagamentos: Pagar.me, Asaas, Stripe, PIX, boleto, cartão, split e NFS-e. IA: API da OpenAI, n8n, RAG e Claude Code. Estudando agora: Node.js a fundo, PostgreSQL, testes, algoritmos, estruturas de dados, Docker, AWS e inglês.">
+  <img src="assets/s-pagamentos.png" width="32.5%" alt="Pagamentos: Pagar.me, Asaas, Stripe, PIX, boleto, cartão, split e NFS-e.">
+  <img src="assets/s-ia.png" width="32.5%" alt="IA: API da OpenAI, n8n, RAG e Claude Code.">
+  <img src="assets/s-estudando.png" width="32.5%" alt="Estudando agora: Node.js a fundo, PostgreSQL, testes, algoritmos, estruturas de dados, Docker, AWS e inglês.">
 </p>
