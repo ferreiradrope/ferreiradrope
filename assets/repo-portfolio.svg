@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 164" width="412" height="164" role="img" aria-label="Portfólio: O código do meu portfólio: página única, sem framework, com temas claro e escuro.">
+<rect x="0.5" y="0.5" width="411" height="163" rx="12" fill="#111311" stroke="#30342e"/>
+<g transform="translate(20,20)" fill="none" stroke="#a3a498" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M3 2.5h10.5v12H4.5A1.5 1.5 0 0 1 3 13z"/><path d="M3 13a1.5 1.5 0 0 1 1.5-1.5h9"/><path d="M6 14.5v3l1.6-1.1 1.6 1.1v-3"/>
+</g>
+<text x="46" y="33" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif' font-size="16" font-weight="700" fill="#8ecbff">Portfólio</text>
+<path d="M380 31l6-6m-4.7 0h4.7v4.7" fill="none" stroke="#a3a498" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="20" y="62" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif' font-size="12.5" fill="#a3a498">O código do meu portfólio: página única, sem framework, com</text>
+<text x="20" y="80" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif' font-size="12.5" fill="#a3a498">temas claro e escuro.</text>
+<circle cx="26" cy="139" r="5" fill="#e34c26"/>
+<text x="37" y="143" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif' font-size="12" fill="#ecebe4">HTML</text>
+<rect x="76.4" y="128" width="38.8" height="22" rx="11" fill="#1b1f1a" stroke="#30342e"/>
+<text x="85.4" y="143.1" font-family='ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace' font-size="11.5" fill="#a3a498">CSS</text>
+<rect x="122.2" y="128" width="87.2" height="22" rx="11" fill="#1b1f1a" stroke="#30342e"/>
+<text x="131.2" y="143.1" font-family='ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace' font-size="11.5" fill="#a3a498">JavaScript</text>
+</svg>
